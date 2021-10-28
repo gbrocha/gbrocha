@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Conexa](https://www.conexasaude.com.br)
 
-- 💬 Ask me about **JavaScript, Typescript HTML, CSS, ReactJS, VueJS NodeJS**
+- 💬 Ask me about **JavaScript, Typescript, HTML, CSS, ReactJS, VueJS, NodeJS**
 
 - 📫 How to reach me **gbrrochagbr@gmail.com**
 
