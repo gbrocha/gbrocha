@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochagbr" alt="rochagbr" /> </p>
 
 
-- 🔭 I’m currently working on [Conexa](https://www.conexasaude.com.br)
+- 🔭 I’m currently working on [Inventa](https://inventa.shop)
 
 - 💬 Ask me about **JavaScript, Typescript, HTML, CSS, ReactJS, VueJS, NodeJS**
 
