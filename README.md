@@ -4,8 +4,6 @@
 <p align="center">
 <a href="https://twitter.com/RochaGbr" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/gray/twitter-xxl.png" alt="gabrielrocha" height="20" width="20" /></a>
 <a href="www.linkedin.com/in/rochagbr" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/gray/linkedin-xxl.png" alt="gabrielrocha" height="20" width="20" /></a>
-<!-- <a href="https://fb.com/rochaGbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gabrielrocha" height="20" width="20" /></a> -->
-<!-- <a href="https://instagram.com/rochaGabr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabrielrocha" height="20" width="20" /></a> -->
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochagbr" alt="rochagbr" /> </p>
@@ -27,14 +25,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 
-  [![rochagbr github stats](https://github-readme-stats.vercel.app/api?username=rochagbr&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/rochagbr)
+  [![rochagbr github stats](https://github-readme-stats.vercel.app/api?username=gbrocha&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gbrocha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochagbr&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/rochagbr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrocha&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gbrocha)
 
 
 
 <!--
-**rochagbr/rochagbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gbrocha/gbrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
